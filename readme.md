@@ -7,7 +7,8 @@ para rodar esse projeto na sua maquina, por favor digite:
 ```
 node app.js
 ```
-https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-purple
+![Static Badge](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-purple)
+
 
 # Meu Projeto Do Seculo
 este projeto é uma aplicaçao que ajuda os usuários gerenciar suas tarefas
